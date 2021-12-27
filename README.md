@@ -1,3 +1,0 @@
-# javascripttesting
-# javascript
-# javascripttestone
